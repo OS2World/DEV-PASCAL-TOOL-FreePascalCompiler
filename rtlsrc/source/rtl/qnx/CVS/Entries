@@ -1,0 +1,11 @@
+D/i386////
+/Makefile.fpc/1.1.2.3/Fri Jul 12 08:16:26 2002//TFIXES_1_0_0
+/dos.inc/1.1.2.2/Fri Jul 12 08:16:26 2002//TFIXES_1_0_0
+/errno.inc/1.1.2.2/Sat Dec 22 22:56:44 2001//TFIXES_1_0_0
+/osposix.inc/1.1.2.2/Sat Apr 20 12:11:10 2002//TFIXES_1_0_0
+/osposixh.inc/1.1.2.5/Fri Jul 12 08:16:26 2002//TFIXES_1_0_0
+/posix.pp/1.1.2.2/Fri Jul 12 08:16:26 2002//TFIXES_1_0_0
+/qnx.inc/1.1.2.2/Fri Jul 12 08:16:28 2002//TFIXES_1_0_0
+/signal.inc/1.1.2.1/Thu Dec 20 03:55:00 2001//TFIXES_1_0_0
+/system.pp/1.1.2.2/Fri Jul 12 08:16:28 2002//TFIXES_1_0_0
+/Makefile/1.1.2.11/Sat Apr  5 10:27:30 2003//TFIXES_1_0_0

@@ -1,0 +1,25 @@
+D/db////
+D/freebsd////
+D/go32v2////
+D/inc////
+D/linux////
+D/os2////
+D/shedit////
+D/template////
+D/tests////
+D/unix////
+D/win32////
+D/xml////
+D/beos////
+D/netbsd////
+D/posix////
+D/qnx////
+D/sunos////
+D/openbsd////
+D/amiga////
+D/passrc////
+D/emx////
+D/netware////
+D/net////
+/Makefile/1.77/Thu Jun 26 23:52:28 2003//TFIXES_1_0_0
+/Makefile.fpc/1.31/Thu Jun 26 23:52:28 2003//TFIXES_1_0_0

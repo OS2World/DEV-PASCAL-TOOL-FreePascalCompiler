@@ -1,0 +1,12 @@
+D/api////
+/os.inc/1.1/Thu Jul 13 08:31:10 2000//TFIXES_1_0_0
+/prt0.as/1.1.2.1/Thu Aug 16 21:13:56 2001//TFIXES_1_0_0
+/readme/1.1/Thu Jul 13 08:31:10 2000//TFIXES_1_0_0
+/systraps.pp/1.1/Thu Jul 13 08:31:10 2000//TFIXES_1_0_0
+/crt0.o/1.1.2.2/Fri Jan 10 19:32:04 2003/-kb/TFIXES_1_0_0
+/libcrt.a/1.1.2.4/Fri Jan 10 19:32:04 2003/-kb/TFIXES_1_0_0
+/syspalm.pp/1.1.2.3/Fri Jan 10 19:32:04 2003//TFIXES_1_0_0
+/Makefile.fpc/1.1.2.1/Mon Jan 13 20:37:56 2003//TFIXES_1_0_0
+/gdbstub.o/1.1.2.1/Thu Jan 16 00:19:50 2003/-kb/TFIXES_1_0_0
+/Makefile/1.1.2.4/Sat Apr  5 10:27:24 2003//TFIXES_1_0_0
+/palm.pp/1.1.2.3/Fri Jun  6 22:55:16 2003//TFIXES_1_0_0

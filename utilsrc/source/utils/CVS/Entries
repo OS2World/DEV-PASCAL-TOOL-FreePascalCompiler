@@ -1,0 +1,24 @@
+D/fprcp////
+D/h2pas////
+D/simulator////
+D/tply////
+D/fpcm////
+D/dxegen////
+/README/1.2/Sun Mar 10 14:52:30 2002//TFIXES_1_0_0
+/bin2obj.pp/1.5/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/checkcvs.pp/1.3/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/creumap.pp/1.2/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/data2inc.exm/1.1/Thu Jul 13 12:16:20 2000//TFIXES_1_0_0
+/data2inc.pp/1.2/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/delp.pp/1.7/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/postw32.pp/1.2/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/ppdep.pp/1.4/Sun Sep 22 12:02:16 2002//TFIXES_1_0_0
+/ptop.pp/1.3/Sun Mar  3 12:41:30 2002//TFIXES_1_0_0
+/rmcvsdir.pp/1.1/Tue Dec 19 22:48:00 2000//TFIXES_1_0_0
+/rstconv.pp/1.5/Sat Oct  5 21:36:32 2002//TFIXES_1_0_0
+D/debugsvr////
+D/fpmc////
+D/fpdoc////
+/ptopu.pp/1.6/Sat Mar 29 15:16:42 2003//TFIXES_1_0_0
+/Makefile/1.51/Sun Apr  6 21:59:34 2003//TFIXES_1_0_0
+/Makefile.fpc/1.11/Sun Apr  6 21:59:34 2003//TFIXES_1_0_0

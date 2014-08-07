@@ -1,0 +1,14 @@
+D/i386////
+/readdir.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/syscalls.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/sysconst.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/sysnr.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/systypes.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/termios.inc/1.1.2.1/Mon Jul 29 19:15:58 2002//TFIXES_1_0_0
+/Makefile.fpc/1.1.2.4/Sun Feb  9 18:44:56 2003//TFIXES_1_0_0
+/sysbsd.pp/1.1.2.2/Sun Feb  9 18:44:56 2003//TFIXES_1_0_0
+/signal.inc/1.1.2.3/Sat Feb 15 12:54:26 2003//TFIXES_1_0_0
+/unixsock.inc/1.1.2.3/Wed Mar  5 22:00:56 2003//TFIXES_1_0_0
+/Makefile/1.1.2.7/Sat Apr  5 10:27:20 2003//TFIXES_1_0_0
+/unixsysc.inc/1.1.2.3/Sun Apr  6 21:59:32 2003//TFIXES_1_0_0
+/signalf.inc/1.1.2.2/Fri Jun  6 22:55:14 2003//TFIXES_1_0_0

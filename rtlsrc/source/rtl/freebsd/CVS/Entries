@@ -1,0 +1,16 @@
+D/i386////
+/bsdport.txt/1.1.2.2/Thu Mar 21 19:51:38 2002//TFIXES_1_0_0
+/console.pp/1.1.2.1/Mon Jan  1 21:09:28 2001//TFIXES_1_0_0
+/readdir.inc/1.1.2.1/Wed Mar 14 18:19:10 2001//TFIXES_1_0_0
+/sysconst.inc/1.1.2.4/Wed Feb 20 20:52:18 2002//TFIXES_1_0_0
+/systypes.inc/1.1.2.6/Wed Feb 20 20:52:18 2002//TFIXES_1_0_0
+/termios.inc/1.2.2.1/Wed Oct 25 11:44:54 2000//TFIXES_1_0_0
+/Makefile.fpc/1.1.2.15/Sun Feb  9 18:44:56 2003//TFIXES_1_0_0
+/unixsock.inc/1.1.2.6/Wed Mar  5 22:00:56 2003//TFIXES_1_0_0
+/signal.inc/1.1.2.4/Sun Mar 16 18:24:28 2003//TFIXES_1_0_0
+/sysbsd.pp/1.1.2.3/Sun Mar 16 18:24:30 2003//TFIXES_1_0_0
+/syscalls.inc/1.1.2.11/Sun Mar 16 18:24:30 2003//TFIXES_1_0_0
+/sysnr.inc/1.1.2.6/Sun Mar 16 18:24:30 2003//TFIXES_1_0_0
+/Makefile/1.1.2.45/Sat Apr  5 10:27:16 2003//TFIXES_1_0_0
+/signalf.inc/1.1.2.2/Fri Jun  6 22:55:14 2003//TFIXES_1_0_0
+/unixsysc.inc/1.1.2.8/Thu Jun 26 23:54:14 2003//TFIXES_1_0_0

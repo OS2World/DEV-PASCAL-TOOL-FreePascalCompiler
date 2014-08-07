@@ -1,0 +1,78 @@
+$Id: bsdport.txt,v 1.1.2.2 2002/03/19 07:39:54 marco Exp $
+
+Comments, mistakes and suggestions to Marco@freepascal.org
+
+1 FreeBSD supported versions and status 
+-----------------------------------------------------------------------------
+
+1.1 Supported FreeBSD versions.
+==========================
+
+- Supported are FreeBSD 4.x only, though 5.x seems to work according to some.
+  I'm waiting for the 5.x ISO beta snapshot to verify that.
+
+   3.x (3.2, 3.4) used to work, until signalhandling was introduced. Since
+   that time my only 3.x testing account vanished, so :-)
+
+1.2 Status
+==========================
+
+FPC/FreeBSD is now in use for over a year now, and I never heard or
+experienced problems that caused dataloss and only rarely a crash (usually
+when fiddling with the copro registers and with the restarting of exceptions )
+
+2 Known bugs
+-----------------------------------------------------------------------------
+
+- Clone is not very well tested, and I had a bugreport that there were problems 
+   with it.
+
+- Recovering from integer divide by zero seems to go ok, but then it hangs
+  again in the next one. I've been trying to fix this for weeks, but haven't
+   succeeded yet.
+
+- More readdir problems have been fixed (and the last one was one that only
+  occured under rare circumstances). So now that should be fixed. I don't
+  know how good my readdir is, ( Libc does some complex scanning and sorting
+  for duplicate names, but I don't know if that is something archaic or not. 
+
+- Most packages have been rougly or even fairly well tested, but I can't
+- guarantee to have tested everything.
+
+3 implemented Syscalls/linux unit functions
+-----------
+The bulk of the functions in unit linux are implemented.
+
+ipc(unit)  The IPC is System V thingy, and only supported under FreeBSD with
+                          certain kernel parameters.
+
+Clone()    Not implemented as syscall, based on linuxthread assembler
+            routine. Untested. Somebody has a good test program? Or that
+            tests the FCL threading routines based on it?
+
+sysinfo  NI noreq       Not supported under BSD, not even by emulator
+uname    NI noreq       "        "       "    "   "   "    "   "
+                        (procedures based on this call are also commented
+                         (get* procs)) (sysctl code is still in the works)
+
+
+{
+$Log: bsdport.txt,v $
+Revision 1.1.2.2  2002/03/19 07:39:54  marco
+ * Slightly updated this for 1.0.6 status
+
+Revision 1.1.2.1  2000/09/16 11:19:08  marco
+ * Moved files from BSD to FreeBSD directory, with some small changes
+
+Revision 1.1.2.1  2000/09/10 16:12:14  marco
+Initial signals, sockets and clone
+
+Revision 1.1  2000/07/13 06:30:32  michael
++ Initial import
+
+Revision 1.3  2000/04/16 16:11:33  marco
+ * Severe updates for now *working* status
+
+Revision 1.2  2000/04/10 15:46:51  marco
+ * worked all day. probably a lot changed
+}

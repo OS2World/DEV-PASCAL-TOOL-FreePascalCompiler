@@ -1,0 +1,24 @@
+/adler.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/changes.txt/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/example.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/gzcrc.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/gzio.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/infblock.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/infcodes.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/inffast.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/inftrees.pas/1.2/Sun Sep 22 11:59:40 2002//TFIXES_1_0_0
+/infutil.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/minigzip.pas/1.2/Sun Sep 22 11:59:40 2002//TFIXES_1_0_0
+/paszlib.pas/1.1/Tue Jan 29 18:54:54 2002//TFIXES_1_0_0
+/readme.txt/1.2/Sun Sep 22 11:59:40 2002//TFIXES_1_0_0
+/trees.pas/1.2/Sun Sep 22 11:59:40 2002//TFIXES_1_0_0
+/zbase.pas/1.2/Sun Sep 22 11:59:42 2002//TFIXES_1_0_0
+/zcompres.pas/1.2/Sun Sep 22 11:59:42 2002//TFIXES_1_0_0
+/zconf.inc/1.2/Sun Sep 22 11:59:42 2002//TFIXES_1_0_0
+/zdeflate.pas/1.2/Sun Sep 22 11:59:42 2002//TFIXES_1_0_0
+/zinflate.pas/1.1/Tue Jan 29 18:54:56 2002//TFIXES_1_0_0
+/zuncompr.pas/1.2/Sun Sep 22 11:59:44 2002//TFIXES_1_0_0
+/zutil.pas/1.1/Tue Jan 29 18:54:56 2002//TFIXES_1_0_0
+/Makefile/1.13/Sun Apr  6 21:59:20 2003//TFIXES_1_0_0
+/Makefile.fpc/1.2/Sun Apr  6 21:59:20 2003//TFIXES_1_0_0
+D

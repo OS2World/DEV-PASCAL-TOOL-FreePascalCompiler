@@ -1,0 +1,20 @@
+#
+# Makefile.fpc for DBase FCL db units
+#
+
+[package]
+main=fcl
+
+[target]
+units=dbf
+examples=testdbf
+
+[compiler]
+options=-S2 -Sh
+targetdir=../../$(OS_TARGET)
+
+[install]
+fpcpackage=y
+
+[default]
+fpcdir=../../..

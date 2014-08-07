@@ -1,0 +1,23 @@
+#
+#   Makefile.fpc for Free Pascal Packages
+#
+
+[target]
+dirs=paszlib regexpr netdb
+dirs_linux=inet gdbint libasync mysql ibase postgres oracle odbc \
+            pthreads sqlite libc
+dirs_win32=inet gdbint mysql ibase odbc sqlite
+dirs_go32v2=gdbint
+dirs_netbsd=inet gdbint libasync \
+            mysql ibase postgres oracle odbc 
+dirs_openbsd=inet gdbint libasync \
+            mysql ibase postgres oracle odbc 
+dirs_freebsd=inet gdbint libasync \
+             mysql ibase postgres oracle odbc 
+
+[install]
+fpcpackage=y
+fpcsubdir=packages/base
+
+[default]
+fpcdir=../..

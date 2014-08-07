@@ -1,0 +1,26 @@
+#
+# Makefile.fpc for MySql FCL db units
+#
+
+[package]
+main=fcl
+
+[target]
+units=mysqldb
+examples=testm
+
+[clean]
+units=mysql mysql_com mysql_version
+
+[require]
+packages=mysql
+
+[compiler]
+options=-S2 
+targetdir=../../$(OS_TARGET)
+
+[install]
+fpcpackage=y
+
+[default]
+fpcdir=../../..

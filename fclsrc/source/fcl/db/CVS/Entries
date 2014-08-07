@@ -1,0 +1,17 @@
+D/dbase////
+D/interbase////
+D/mysql////
+D/tests////
+D/odbc////
+/Dataset.txt/1.1/Thu Jul 13 08:31:26 2000//TFIXES_1_0_0
+/Makefile.fpc/1.8/Sun Aug  4 23:36:14 2002//TFIXES_1_0_0
+/README/1.2/Sun Sep 22 11:58:10 2002//TFIXES_1_0_0
+/database.inc/1.3/Sun Sep 22 11:58:10 2002//TFIXES_1_0_0
+/dbs.inc/1.4/Sun Sep 22 11:58:12 2002//TFIXES_1_0_0
+/ddg_ds.pp/1.3/Sun Sep 22 11:58:12 2002//TFIXES_1_0_0
+/ddg_rec.pp/1.3/Sun Sep 22 11:58:12 2002//TFIXES_1_0_0
+/fields.inc/1.7/Sun Sep 22 11:58:12 2002//TFIXES_1_0_0
+/Makefile/1.48/Sat Apr  5 10:26:42 2003//TFIXES_1_0_0
+/dataset.inc/1.8/Fri Jun  6 22:54:32 2003//TFIXES_1_0_0
+/datasource.inc/1.7/Fri Jun  6 22:54:32 2003//TFIXES_1_0_0
+/db.pp/1.9/Fri Jun  6 22:54:32 2003//TFIXES_1_0_0
